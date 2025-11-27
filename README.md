@@ -8,19 +8,19 @@ Financial institutions must accurately assess borrower risk to maintain a health
 
 Key areas analyzed:
 
-Customer demographics
+- Customer demographics
 
-Loan and credit behaviour
+- Loan and credit behaviour
 
-Occupation-based lending analysis
+- Occupation-based lending analysis
 
-Nationality-wise trends
+- Nationality-wise trends
 
-Risk weighting and fee structures
+- Risk weighting and fee structures
 
-Loyalty classification
+- Loyalty classification
 
-Overall lending KPIs
+- Overall lending KPIs
 
 ## 📊 Dashboard Highlights
 Main Dashboard
