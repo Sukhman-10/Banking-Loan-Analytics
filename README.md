@@ -1,4 +1,4 @@
-#Bank Lending Risk Analytics
+# Bank Lending Risk Analytics
 
 This project analyzes lending risks for a Banking & Financial Services (BFS) client by exploring customer demographics, credit behavior, and loan performance. Using data-driven methods, it identifies high-risk patterns, improves credit decisioning, and helps minimise financial loss.
 
