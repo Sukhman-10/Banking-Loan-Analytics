@@ -42,6 +42,7 @@ This interactive dashboard showcases:
 
 Shows relationships between core numeric variables (income, loans, credit usage, accounts, etc.).
 
+![Correlation Chart](Correlation Matrix Heatmap.png)
 
 ### 2️⃣ Pair Plots
 
