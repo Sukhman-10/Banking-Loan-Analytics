@@ -42,6 +42,7 @@ This interactive dashboard showcases:
 
 Shows relationships between core numeric variables (income, loans, credit usage, accounts, etc.).
 
+
 ### 2️⃣ Pair Plots
 
 Provides variable interactions, trends, and outlier identification across multiple financial parameters.
@@ -84,16 +85,8 @@ The dataset includes anonymized customer and financial fields such as:
 
 - Provide data-driven insights for BFS lenders
 
-## 🚀 How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/bank-lending-risk-analytics.git
-
-Review included charts (Dashboard.png, correlation_chart.png, pair_plots.png).
-
 ## 📬 Contact
 
-Your Name: Sukhman Singh
-Email: sukhmansinghfb12@gmail.com
-LinkedIn: http://www.linkedin.com/in/sukhman-singh11
+- Your Name: Sukhman Singh
+- Email: sukhmansinghfb12@gmail.com
+- LinkedIn: http://www.linkedin.com/in/sukhman-singh11
