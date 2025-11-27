@@ -27,15 +27,15 @@ Main Dashboard
 
 This interactive dashboard showcases:
 
-Bank Loans, Deposits, Credit Card Balance
+- Bank Loans, Deposits, Credit Card Balance
 
-Age group distribution of income and loans
+- Age group distribution of income and loans
 
-Nationality-wise deposits and loan behaviour
+- Nationality-wise deposits and loan behaviour
 
-Occupation-wise credit balance
+- Occupation-wise credit balance
 
-Properties and risk weighting distribution
+- Properties and risk weighting distribution
 
 ## 📈 Additional Analytics Visuals
 ### 1️⃣ Correlation Chart
@@ -50,39 +50,39 @@ Provides variable interactions, trends, and outlier identification across multip
 
 The dataset includes anonymized customer and financial fields such as:
 
-Age, Gender, Nationality
+- Age, Gender, Nationality
 
-Occupation, Loyalty Classification
+- Occupation, Loyalty Classification
 
-Estimated Income
+- Estimated Income
 
-Bank Loans & Credit Card Balances
+- Bank Loans & Credit Card Balances
 
-Saving & Checking Accounts
+- Saving & Checking Accounts
 
-Properties Owned
+- Properties Owned
 
-Fee Structure, IAId, BRId
+- Fee Structure, IAId, BRId
 
 ## 🛠️ Tools & Technologies
 
-Power BI – Dashboard & reporting
+- Power BI – Dashboard & reporting
 
-Python (Pandas, NumPy, Seaborn, Matplotlib) – Exploratory Data Analysis
+- Python (Pandas, NumPy, Seaborn, Matplotlib) – Exploratory Data Analysis
 
-Excel / CSV – Data formatting
+- Excel / CSV – Data formatting
 
-Git & GitHub – Version control
+- Git & GitHub – Version control
 
 ## 🎯 Objectives
 
-Identify high-risk borrower segments
+- Identify high-risk borrower segments
 
-Strengthen credit decision-making
+- Strengthen credit decision-making
 
-Reduce lending-related financial losses
+- Reduce lending-related financial losses
 
-Provide data-driven insights for BFS lenders
+- Provide data-driven insights for BFS lenders
 
 ## 🚀 How to Use
 
@@ -90,16 +90,10 @@ Clone the repository:
 
 git clone https://github.com/yourusername/bank-lending-risk-analytics.git
 
-
-Navigate to the project directory.
-
-Open the Power BI .pbix file or explore datasets in the data/ folder.
-
 Review included charts (Dashboard.png, correlation_chart.png, pair_plots.png).
 
 ## 📬 Contact
 
-Your Name
+Your Name: Sukhman Singh
 Email: sukhmansinghfb12@gmail.com
-
 LinkedIn: http://www.linkedin.com/in/sukhman-singh11
